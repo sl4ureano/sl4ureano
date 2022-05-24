@@ -11,6 +11,6 @@
 #### I'm a Full-Stack Developer working in Rio de Janeiro, Brazil.
 
 - 🏢 I'm currently working at **Itaú Unibanco**
-- ⚙️ I use daily: `.cs`, `.java`, `.js`, `.ts`, `.go`,`.py`, `.html`, `.css`
+- ⚙️ I use daily: `.cs`, `.java`, `.kt`, `.js`, `.ts`, `.go`,`.py`, `.html`, `.css`
 - 🌱 Learn all about **Open Source** and **Financial Market**
 - 📫 Reach me: [slaureano.com.br](https://slaureano.com.br)
